@@ -1,0 +1,14 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\bin\Debug\net8.0\SessionNumber!Group2.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\bin\Debug\net8.0\SessionNumber!Group2.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\bin\Debug\net8.0\SessionNumber!Group2.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\bin\Debug\net8.0\SessionNumber!Group2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\bin\Debug\net8.0\SessionNumber!Group2.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\refint\SessionNumber!Group2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\SessionNumber!Group2.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber!Group2\SessionNumber!Group2\obj\Debug\net8.0\ref\SessionNumber!Group2.dll
