@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\entities\\ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\entities\\ambulance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\entities\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\entities\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\sessionnumber3\\carold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3DB33A-C123-40A6-B16F-BBA6800B6370}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\carold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3F873B-6BB1-4927-983E-D622A5882881}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3F873B-6BB1-4927-983E-D622A5882881}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Shapes\\Square.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Square.cs",
+              "RelativeToolTip": "SessionNumber3\\Shapes\\Square.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:09:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Shapes\\Circle.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Circle.cs",
+              "RelativeToolTip": "SessionNumber3\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:09:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Shapes\\Shape.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Shapes\\Shape.cs",
+              "RelativeToolTip": "SessionNumber3\\Shapes\\Shape.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:07:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Entities\\ElectricCar.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\ElectricCar.cs",
+              "RelativeToolTip": "SessionNumber3\\Entities\\ElectricCar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:24:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Entities\\Car.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Car.cs",
+              "RelativeToolTip": "SessionNumber3\\Entities\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:16:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ambulance.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Ambulance.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Entities\\Ambulance.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Ambulance.cs",
+              "RelativeToolTip": "SessionNumber3\\Entities\\Ambulance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:16:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Entities\\Vehicle.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "SessionNumber3\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:14:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:59:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarOld.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\CarOld.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\CarOld.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\CarOld.cs",
+              "RelativeToolTip": "SessionNumber3\\CarOld.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:35:09.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber3\\SessionNumber3\\Program.cs",
+              "RelativeToolTip": "SessionNumber3\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwE8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:25:36.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
