@@ -1,0 +1,15 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\bin\Debug\net8.0\FunWithList.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\bin\Debug\net8.0\FunWithList.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\bin\Debug\net8.0\FunWithList.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\bin\Debug\net8.0\FunWithList.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\bin\Debug\net8.0\FunWithList.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.sourcelink.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\refint\FunWithList.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\FunWithList.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\FunWithList\obj\Debug\net8.0\ref\FunWithList.dll

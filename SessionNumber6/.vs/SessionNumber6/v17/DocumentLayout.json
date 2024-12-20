@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12234F42-838E-412D-ADE0-2E2829FCD110}|FunWithList\\FunWithList.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\funwithlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12234F42-838E-412D-ADE0-2E2829FCD110}|FunWithList\\FunWithList.csproj|solutionrelative:funwithlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\callbackwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|solutionrelative:callbackwithdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\callbackwithdelegate\\callbackwithdelegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|solutionrelative:callbackwithdelegate\\callbackwithdelegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8C8171-A048-4339-8C69-C8B9BC183C20}|SessionNumber6\\SessionNumber6.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\sessionnumber6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8C8171-A048-4339-8C69-C8B9BC183C20}|SessionNumber6\\SessionNumber6.csproj|solutionrelative:sessionnumber6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\callbackwithdelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|solutionrelative:callbackwithdelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\s1\\sessionnumber6\\callbackwithdelegate\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF994974-9114-4FA6-B311-0DE05D2ADEA8}|CallbackWithDelegate\\CallbackWithDelegate.csproj|solutionrelative:callbackwithdelegate\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\FunWithList\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithList\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\FunWithList\\Program.cs",
+              "RelativeToolTip": "FunWithList\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:48:39.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallbackWithDelegate",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\CallbackWithDelegate.csproj",
+              "RelativeDocumentMoniker": "CallbackWithDelegate\\CallbackWithDelegate.csproj",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\CallbackWithDelegate.csproj",
+              "RelativeToolTip": "CallbackWithDelegate\\CallbackWithDelegate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T15:46:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarEventArgs.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\CarEventArgs.cs",
+              "RelativeDocumentMoniker": "CallbackWithDelegate\\CarEventArgs.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\CarEventArgs.cs",
+              "RelativeToolTip": "CallbackWithDelegate\\CarEventArgs.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:17:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\SessionNumber6\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber6\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\SessionNumber6\\Program.cs",
+              "RelativeToolTip": "SessionNumber6\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:46:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "CallbackWithDelegate\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\Program.cs",
+              "RelativeToolTip": "CallbackWithDelegate\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:25:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\Car.cs",
+              "RelativeDocumentMoniker": "CallbackWithDelegate\\Car.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\S1\\SessionNumber6\\CallbackWithDelegate\\Car.cs",
+              "RelativeToolTip": "CallbackWithDelegate\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:47:22.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

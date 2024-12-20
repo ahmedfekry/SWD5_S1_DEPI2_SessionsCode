@@ -1,0 +1,15 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\bin\Debug\net8.0\CallbackWithDelegate.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\bin\Debug\net8.0\CallbackWithDelegate.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\bin\Debug\net8.0\CallbackWithDelegate.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\bin\Debug\net8.0\CallbackWithDelegate.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\bin\Debug\net8.0\CallbackWithDelegate.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.sourcelink.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\refint\CallbackWithDelegate.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\CallbackWithDelegate.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\S1\SessionNumber6\CallbackWithDelegate\obj\Debug\net8.0\ref\CallbackWithDelegate.dll
